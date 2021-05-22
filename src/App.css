@@ -1,4 +1,17 @@
 .App {
   height: 100vh;
   /* border: 5px solid red; */
+  max-width: 1500px;
+  margin: auto auto;
+  
+}
+.layout{
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  width: 100%;
+}
+.home {
+  max-width: 1100px;
+  margin: auto auto;
 }

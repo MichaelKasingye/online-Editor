@@ -24,7 +24,7 @@ useEffect(() => {
 
   return (
     <div className="App">
-    <div className="pane top-pane">
+    <div className=" layout pane top-pane">
       <Editor 
       language="xml"
       displayName="HTML"
