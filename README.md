@@ -1,6 +1,6 @@
 # Online Web editor
 
-This is [Online Web Editor](https://codeeditoronline.netlify.app/).
+This is an [Online Web Editor](https://codeeditoronline.netlify.app/).
 
 Good with testing HTML, CSS, JavaScript
 
